@@ -89,10 +89,7 @@ build/*
 .idea
 .vscode/*
 debian/.debhelper
-debian/lingmoui
-obj-x86_64-linux-gnu
-debian/lingmoui.debhelper.log
-debian/lingmoui.substvars
+obj-*-linux-gnu
 debian/files
 
 /.cache/
